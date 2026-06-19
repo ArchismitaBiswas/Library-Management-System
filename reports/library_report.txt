@@ -1,0 +1,7 @@
+LIBRARY MANAGEMENT REPORT
+
+Total Books: 100
+Total Students: 50
+Total Issue Records: 200
+Currently Issued Books: 111
+Returned Books: 89
