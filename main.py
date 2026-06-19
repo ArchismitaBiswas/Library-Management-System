@@ -237,3 +237,19 @@ with open(
 print("\nReport Generated Successfully!")
 
 conn.close()
+
+
+books_df.to_csv(
+    "reports/books_table.csv",
+    index=False
+)
+
+students_df.to_csv(
+    "reports/students_table.csv",
+    index=False
+)
+
+issue_df.to_csv(
+    "reports/issue_records_table.csv",
+    index=False
+)
